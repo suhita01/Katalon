@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14_ErrorUponCheckout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80c6d247-bf6f-4cb9-9226-94844a07433e</testCaseGuid>
+</TestCaseEntity>
